@@ -1,4 +1,9 @@
 # FRONTRUN_BOT
+
+
+PURCHASE LINK: https://enzypt.io/Q0PXNpJjSsxWCPpHs0VgShFoA64ZWlgW/TG99udi6FnERhflDbWlC-lfFIgk5ekXpH50XmIzIMY8
+
+
 A simple pancakeswap frontrun bot that purchases the specified token when liquidity is added.
 ## IMPORTANT NOTES BEFORE RUNNING THE BOT
 
